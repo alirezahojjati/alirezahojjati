@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Alireza Hojjati  
+- 👀 I’m interested in embedded systems, web development and AI systems.
+- 🌱 I’m currently learning web development.
+- 💞️ I’m looking to collaborate on interesting projects
